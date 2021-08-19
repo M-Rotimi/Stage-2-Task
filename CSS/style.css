@@ -1,0 +1,36 @@
+body {
+    margin: auto;
+    width: 100%;
+    background: #fff;
+}
+
+.button {
+    position: relative;
+    height: 5em;
+}
+.btn {
+    border: 0px solid rgb(22, 94, 99);
+    padding: 10px 20px;
+    background: rgb(22, 94, 99);
+    color: #fff;
+    font-size: 1em;
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    margin-top: 10em;
+    /* width: max-content; */
+}
+
+.name {
+    font-size: 4em;
+    text-align: center;
+    margin: auto;
+    margin-top: 2em;
+    color: #fff;
+    
+}
+
+.body2 {
+    background: rgb(71, 64, 62);
+}
